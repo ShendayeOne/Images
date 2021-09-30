@@ -1,5 +1,5 @@
-通用图：sy_fotor_10000_fotor_sy
-生日图：sy_birthday_4531_birthday_sy
+通用图：sy_fotor_12212_fotor_sy
+生日图：sy_birthday_2313_birthday_sy
 早安图：sy_morning_1895_morning_sy
 晚安图：sy_night_1535_night_sy
 笑话图：sy_funny_2788_funny_sy
