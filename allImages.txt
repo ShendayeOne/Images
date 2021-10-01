@@ -1,6 +1,6 @@
 通用图：sy_fotor_12212_fotor_sy
 生日图：sy_birthday_2313_birthday_sy
-早安图：sy_morning_406_morning_sy
-晚安图：sy_night_385_night_sy
+早安图：sy_morning_1452_morning_sy
+晚安图：sy_night_1594_night_sy
 笑话图：sy_funny_427_funny_sy
 美女图：sy_woman_1373_woman_sy
