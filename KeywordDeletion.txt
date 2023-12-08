@@ -3,5 +3,11 @@
 !sy[com.abc.def2|||某个大目录|||某个内容关键字1|||某个内容关键字2|||某个内容关键字3]sy!
 !sy[com.abc.def3|||某个大目录|||某个内容关键字1|||某个内容关键字2|||某个内容关键字3]sy!
 
-// 下面是广告触发概率控制，100最大
+// 插页广告触发概率控制，100最大，规则为  [包名---插页广告概率]
 !ad_chance[com.abc.def4---50]ad_chance!
+
+// 祝福语精选 50
+!ad_chance[com.shenyang.blessings.messages.love.sayings.greeting.cards---50]ad_chance!
+
+// 祝福语大全 50
+!ad_chance[com.shenyang.china.festival.holiday.blessings.greetings---50]ad_chance!
