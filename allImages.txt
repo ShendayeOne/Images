@@ -2,7 +2,7 @@
 生日图：sy_birthday_2148_birthday_sy
 早安图：sy_morning_4859_morning_sy
 晚安图：sy_night_5960_night_sy
-笑话图：sy_funny_3576_funny_sy
+笑话图：sy_funny_5359_funny_sy
 美女图：sy_woman_5345_woman_sy
 动物图：sy_animal_5762_animal_sy
 新年图：sy_newyear_566_newyear_sy
