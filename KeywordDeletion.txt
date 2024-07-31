@@ -7,4 +7,7 @@
 // 规则为：[包名---插页广告弹出时间+++自动关闭插页广告的时间]
 
 !ad_chance[com.abc.def4---240+++6]ad_chance!
+!ad_chance[com.shenyang.china.festival.holiday.blessings.greetings---150+++6]ad_chance!
+!ad_chance[com.shenyang.blessings.messages.love.sayings.greeting.cards---150+++6]ad_chance!
+
 
