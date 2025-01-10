@@ -8,65 +8,64 @@
 !ad_chance[com.abc.def4---240+++6]ad_chance!
 
 // 祝福语大全
-!ad_chance[com.shenyang.china.festival.holiday.blessings.greetings---120+++6]ad_chance!
+!ad_chance[com.shenyang.china.festival.holiday.blessings.greetings---90+++6]ad_chance!
 // 祝福语精选
-!ad_chance[com.shenyang.blessings.messages.love.sayings.greeting.cards---120+++6]ad_chance!
+!ad_chance[com.shenyang.blessings.messages.love.sayings.greeting.cards---90+++6]ad_chance!
 // 新年祝福语
-!ad_chance[com.translation.happy.chinese.newyear.wishes---120+++6]ad_chance!
+!ad_chance[com.translation.happy.chinese.newyear.wishes---90+++6]ad_chance!
 // 新年祝福语2
-!ad_chance[com.translation.newyear.year.love.happynewyear.wishes---120+++6]ad_chance!
+!ad_chance[com.translation.newyear.year.love.happynewyear.wishes---90+++6]ad_chance!
 // 新年祝福语3
-!ad_chance[com.merry.christmas.happy.new.year.greetings.blessings.wishes---120+++6]ad_chance!
+!ad_chance[com.merry.christmas.happy.new.year.greetings.blessings.wishes---90+++6]ad_chance!
 // 对联大全
-!ad_chance[com.cow.year.couplets.spring.festival---120+++6]ad_chance!
+!ad_chance[com.cow.year.couplets.spring.festival---90+++6]ad_chance!
 // 生日
-!ad_chance[com.shenyang.birthday.wishes.funny.sentences.quotations---120+++6]ad_chance!
+!ad_chance[com.shenyang.birthday.wishes.funny.sentences.quotations---90+++6]ad_chance!
 // 小学作文
-!ad_chance[com.shenyang.primary.school.student.composition---120+++6]ad_chance!
+!ad_chance[com.shenyang.primary.school.student.composition---90+++6]ad_chance!
 // 小學作文（繁体）
-!ad_chance[com.shenyang.primary.school.student.composition.traditional.chinese---120+++6]ad_chance!
+!ad_chance[com.shenyang.primary.school.student.composition.traditional.chinese---90+++6]ad_chance!
 // 小学作文下册
-!ad_chance[com.shenyang.student.primary.school.composition.collection.two---120+++6]ad_chance!
+!ad_chance[com.shenyang.student.primary.school.composition.collection.two---90+++6]ad_chance!
 // 小学作文上册
-!ad_chance[com.shenyang.student.primary.school.composition.collection---120+++6]ad_chance!
+!ad_chance[com.shenyang.student.primary.school.composition.collection---90+++6]ad_chance!
 // 小学分类作文
-!ad_chance[com.shenyang.student.primary.school.classification.composition---120+++6]ad_chance!
+!ad_chance[com.shenyang.student.primary.school.classification.composition---90+++6]ad_chance!
 // 初中分类作文
-!ad_chance[com.shenyang.student.classification.composition.junior.high.school---120+++6]ad_chance!
+!ad_chance[com.shenyang.student.classification.composition.junior.high.school---90+++6]ad_chance!
 // 高中分类作文
-!ad_chance[com.shenyang.student.high.school.classification.composition---120+++6]ad_chance!
+!ad_chance[com.shenyang.student.high.school.classification.composition---90+++6]ad_chance!
 // 英语作文
-!ad_chance[com.shenyang.english.composition.english.essay.student.composition---120+++6]ad_chance!
+!ad_chance[com.shenyang.english.composition.english.essay.student.composition---90+++6]ad_chance!
 // 作文指导
-!ad_chance[com.shenyang.english.student.excellent.composition.guide---120+++6]ad_chance!
+!ad_chance[com.shenyang.english.student.excellent.composition.guide---90+++6]ad_chance!
 // 初中作文
-!ad_chance[com.shenyang.junior.high.school.school.student.composition---120+++6]ad_chance!
+!ad_chance[com.shenyang.junior.high.school.school.student.composition---90+++6]ad_chance!
 // 高中作文
-!ad_chance[com.shenyang.junior.high.school.composition.student.composition---120+++6]ad_chance!
+!ad_chance[com.shenyang.junior.high.school.composition.student.composition---90+++6]ad_chance!
 // 散文
-!ad_chance[com.shenyang.composition.student.composition.china.prose---120+++6]ad_chance!
+!ad_chance[com.shenyang.composition.student.composition.china.prose---90+++6]ad_chance!
 // 单元作文
-!ad_chance[com.shenyang.english.composition.student.unit.composition---120+++6]ad_chance!
+!ad_chance[com.shenyang.english.composition.student.unit.composition---90+++6]ad_chance!
 // 笑话
-!ad_chance[com.joke.funny.humor.joke.happy.shenyang---120+++6]ad_chance!
+!ad_chance[com.joke.funny.humor.joke.happy.shenyang---90+++6]ad_chance!
 // 爱情宝典
-!ad_chance[com.shenyang.love.quotations.good.morning---120+++6]ad_chance!
+!ad_chance[com.shenyang.love.quotations.good.morning---90+++6]ad_chance!
 // 早安
-!ad_chance[com.translation.iloveyou.wanan.love.loveyou---120+++6]ad_chance!
+!ad_chance[com.translation.iloveyou.wanan.love.loveyou---90+++6]ad_chance!
 // 诗词曲
-!ad_chance[com.shenyang.chinese.china.tang.poetry.song.ci.yuan.qu---120+++6]ad_chance!
+!ad_chance[com.shenyang.chinese.china.tang.poetry.song.ci.yuan.qu---90+++6]ad_chance!
 // 名言
-!ad_chance[com.shenyang.famous.quotes.catchphrase.china---120+++6]ad_chance!
+!ad_chance[com.shenyang.famous.quotes.catchphrase.china---90+++6]ad_chance!
 // 语录
-!ad_chance[com.shenyang.quotations.sentences.funny.joke.inspirational---120+++6]ad_chance!
+!ad_chance[com.shenyang.quotations.sentences.funny.joke.inspirational---90+++6]ad_chance!
 // 故事大全
-!ad_chance[com.shenyang.chinese.children.stories.legends.aesop.fables---120+++6]ad_chance!
+!ad_chance[com.shenyang.chinese.children.stories.legends.aesop.fables---90+++6]ad_chance!
 // 故事大全2
-!ad_chance[com.shenyang.chinese.children.stories.legends.aesop.fables.china---120+++6]ad_chance!
+!ad_chance[com.shenyang.chinese.children.stories.legends.aesop.fables.china---90+++6]ad_chance!
 // 世界名著
-!ad_chance[com.shenyang.chinese.children.stories.legends.aesop.fables.china.love---120+++6]ad_chance!
+!ad_chance[com.shenyang.chinese.children.stories.legends.aesop.fables.china.love---90+++6]ad_chance!
 // 名著
-!ad_chance[com.shenyang.classic.masterpieces.masterpieces.famousnovels.literarygems---120+++6]ad_chance!
+!ad_chance[com.shenyang.classic.masterpieces.masterpieces.famousnovels.literarygems---90+++6]ad_chance!
 // 鬼故事
-!ad_chance[com.shenyang.chinese.ghost.story.stories---120+++6]ad_chance!
-
+!ad_chance[com.shenyang.chinese.ghost.story.stories---90+++6]ad_chance!
