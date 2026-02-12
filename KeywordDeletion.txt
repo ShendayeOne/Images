@@ -8,19 +8,19 @@
 !ad_chance[com.abc.def4---235+++6]ad_chance!
 
 // 春节祝福贺卡
-!ad_chance[com.xayydy.newyear---35+++6]ad_chance!
+!ad_chance[com.xayydy.newyear---25+++6]ad_chance!
 // 祝福语大全
-!ad_chance[com.shenyang.china.festival.holiday.blessings.greetings---35+++6]ad_chance!
+!ad_chance[com.shenyang.china.festival.holiday.blessings.greetings---25+++6]ad_chance!
 // 祝福语精选
-!ad_chance[com.shenyang.blessings.messages.love.sayings.greeting.cards---35+++6]ad_chance!
+!ad_chance[com.shenyang.blessings.messages.love.sayings.greeting.cards---25+++6]ad_chance!
 // 新年祝福语
-!ad_chance[com.translation.happy.chinese.newyear.wishes---35+++6]ad_chance!
+!ad_chance[com.translation.happy.chinese.newyear.wishes---25+++6]ad_chance!
 // 新年祝福语2
-!ad_chance[com.translation.newyear.year.love.happynewyear.wishes---35+++6]ad_chance!
+!ad_chance[com.translation.newyear.year.love.happynewyear.wishes---25+++6]ad_chance!
 // 新年祝福语3
-!ad_chance[com.merry.christmas.happy.new.year.greetings.blessings.wishes---35+++6]ad_chance!
+!ad_chance[com.merry.christmas.happy.new.year.greetings.blessings.wishes---25+++6]ad_chance!
 // 对联大全
-!ad_chance[com.cow.year.couplets.spring.festival---35+++6]ad_chance!
+!ad_chance[com.cow.year.couplets.spring.festival---25+++6]ad_chance!
 // 生日
 !ad_chance[com.shenyang.birthday.wishes.funny.sentences.quotations---35+++6]ad_chance!
 // 小学作文
