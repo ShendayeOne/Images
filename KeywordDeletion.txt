@@ -3,24 +3,24 @@
 !sy[com.abc.def2|||某个大目录|||某个内容关键字1|||某个内容关键字2|||某个内容关键字3]sy!
 !sy[com.abc.def3|||某个大目录|||某个内容关键字1|||某个内容关键字2|||某个内容关键字3]sy!
 
-// 插页广告间隔时间控制，最小60，自动关闭插页广告的时间仅对国内生效(暂时均为生效)。
+// 插页广告间隔时间控制，最小10秒，再小受到客户端10秒控制。自动关闭插页广告的时间实际上没有生效。
 // 规则为：[包名---插页广告弹出时间+++自动关闭插页广告的时间]
 !ad_chance[com.abc.def4---235+++6]ad_chance!
 
 // 春节祝福贺卡
-!ad_chance[com.xayydy.newyear---25+++6]ad_chance!
+!ad_chance[com.xayydy.newyear---20+++6]ad_chance!
 // 祝福语大全
-!ad_chance[com.shenyang.china.festival.holiday.blessings.greetings---25+++6]ad_chance!
+!ad_chance[com.shenyang.china.festival.holiday.blessings.greetings---20+++6]ad_chance!
 // 祝福语精选
-!ad_chance[com.shenyang.blessings.messages.love.sayings.greeting.cards---25+++6]ad_chance!
+!ad_chance[com.shenyang.blessings.messages.love.sayings.greeting.cards---20+++6]ad_chance!
 // 新年祝福语
-!ad_chance[com.translation.happy.chinese.newyear.wishes---25+++6]ad_chance!
+!ad_chance[com.translation.happy.chinese.newyear.wishes---20+++6]ad_chance!
 // 新年祝福语2
-!ad_chance[com.translation.newyear.year.love.happynewyear.wishes---25+++6]ad_chance!
+!ad_chance[com.translation.newyear.year.love.happynewyear.wishes---20+++6]ad_chance!
 // 新年祝福语3
-!ad_chance[com.merry.christmas.happy.new.year.greetings.blessings.wishes---25+++6]ad_chance!
+!ad_chance[com.merry.christmas.happy.new.year.greetings.blessings.wishes---20+++6]ad_chance!
 // 对联大全
-!ad_chance[com.cow.year.couplets.spring.festival---25+++6]ad_chance!
+!ad_chance[com.cow.year.couplets.spring.festival---20+++6]ad_chance!
 // 生日
 !ad_chance[com.shenyang.birthday.wishes.funny.sentences.quotations---35+++6]ad_chance!
 // 小学作文
