@@ -22,7 +22,7 @@
 // 对联大全
 !ad_chance[com.cow.year.couplets.spring.festival---30+++6]ad_chance!
 // 生日
-!ad_chance[com.shenyang.birthday.wishes.funny.sentences.quotations---40+++6]ad_chance!
+!ad_chance[com.shenyang.birthday.wishes.funny.sentences.quotations---180+++6]ad_chance!
 // 小学作文
 !ad_chance[com.shenyang.primary.school.student.composition---40+++6]ad_chance!
 // 小學作文（繁体）
