@@ -5,8 +5,8 @@
   "groups": {
     "fresh": 110,
     "companionship": 110,
-    "celebration": 283,
-    "longevity": 5
+    "celebration": 282,
+    "longevity": 6
   },
   "entries": [
     {
@@ -3064,9 +3064,9 @@
       "width": 800,
       "height": 510,
       "sha256": "7119a9e1d92dba1d687ac2ae8939d0218784cad19d5299e9d71c4765413444ab",
-      "group": "celebration",
+      "group": "longevity",
       "audiences": [
-        "general"
+        "elder"
       ]
     },
     {
